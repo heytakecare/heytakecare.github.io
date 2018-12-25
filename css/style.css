@@ -13,7 +13,7 @@ body {
   max-width: 100vw;
 }
 
-h3 {
+h3, a {
   color: #b9f7e0;
 }
 
@@ -27,6 +27,13 @@ ul {
   margin: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #b9f7e0;
+}
 
 /* Navigation */
 
@@ -52,6 +59,10 @@ nav a {
   display: block;
 }
 
+nav a:visited {
+  color: #000;
+}
+
 nav li.active {
   background: #ffddcb;
 }
@@ -66,6 +77,10 @@ nav li.active {
   position: fixed;
   top: 0;
   left: 0;
+}
+
+img {
+  width: 100%;
 }
 
 img.placed {
@@ -98,6 +113,10 @@ img.placed {
   nav a {
     color: #ffddcb;
     padding: 0.4rem;
+  }
+
+  nav a:visited {
+    color: #ffddcb;
   }
 
   nav li.active {
