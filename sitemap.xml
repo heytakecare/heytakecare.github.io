@@ -12,10 +12,6 @@
   </url>
   
   <url>
-    <loc>/buy/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -23,6 +19,10 @@
   <url>
     <loc>/</loc>
     <lastmod>2018-12-26T01:44:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/buy/</loc>
   </url>
   
   <url>
