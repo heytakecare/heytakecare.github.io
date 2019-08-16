@@ -26,6 +26,10 @@
   </url>
   
   <url>
+    <loc>/stockists/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <priority>0</priority>
   </url>

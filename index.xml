@@ -42,5 +42,14 @@ Take Care Team  Sarah Bethan Jones Charlotte Fountaine Fran Gordon Lewis Gordon 
       <description></description>
     </item>
     
+    <item>
+      <title>Stockists</title>
+      <link>/stockists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/stockists/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
